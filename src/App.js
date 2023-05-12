@@ -1,4 +1,5 @@
 import NavHeader from "./component/NavHeader";
+import ProductCard from "./component/ProductCard";
 import Silder from "./component/Silder";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
     <NavHeader />
     <Silder />
+    <ProductCard />
     </div>
   );
 }
