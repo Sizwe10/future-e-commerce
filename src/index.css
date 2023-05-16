@@ -69,5 +69,14 @@ padding-left: 9rem;
 gap: 3rem;
 }
 
+.payment{
+  display: flex;
+  margin-bottom: 80rem;
+  padding-left: 55rem;
+  width: 3rem;
+  height: 3rem;
+}
+
+
 
 
