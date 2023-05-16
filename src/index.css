@@ -64,9 +64,10 @@
 }
 
 .social-media {
+display: flex;
 padding-left: 9rem;
+gap: 3rem;
 }
-
 
 
 
