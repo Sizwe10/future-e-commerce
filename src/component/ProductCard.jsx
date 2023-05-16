@@ -13,7 +13,6 @@ const ProductCard = () => {
           <Button variant="primary">Go somewhere</Button>
         </Card.Body>
       </Card>
-
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
@@ -22,7 +21,6 @@ const ProductCard = () => {
           <Button variant="primary">Go somewhere</Button>
         </Card.Body>
       </Card>
-
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
@@ -31,7 +29,6 @@ const ProductCard = () => {
           <Button variant="primary">Go somewhere</Button>
         </Card.Body>
       </Card>
-
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
@@ -40,6 +37,8 @@ const ProductCard = () => {
           <Button variant="primary">Go somewhere</Button>
         </Card.Body>
       </Card>
+      
+     
     </div>
   )
 }
