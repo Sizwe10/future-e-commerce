@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
 
         <div className='address'>
-          <span>S. NQWALA</span>
+          <span>S.S NQWALA</span>
           <span>Contact : 062 777 8389</span>
           <span>Address : Johannesburg</span>
           <span>Email : Sizwenqwala@gmail.com</span>
