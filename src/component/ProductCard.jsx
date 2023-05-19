@@ -9,7 +9,7 @@ const ProductCard = () => {
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'><strong>Long sleeve Jacket</strong> </div>
-          <div className='text-end'>R2000 </div>
+          <div className='text-end'><strong>R2000</strong></div>
           <Button variant="btn btn-dark">Add to Cart</Button>
         </Card.Body>
       </Card>
@@ -17,7 +17,7 @@ const ProductCard = () => {
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> <strong>Long sleeve Jacket</strong></div>
-          <div className='text-end'>R2000 </div>
+          <div className='text-end'><strong>R2000</strong> </div>
           <Button variant="btn btn-dark">Add to Cart</Button>
         </Card.Body>
       </Card>
@@ -25,7 +25,7 @@ const ProductCard = () => {
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> <strong>Long sleeve Jacket</strong> </div>
-          <div className='text-end'>R2000 </div>
+          <div className='text-end'><strong>R2000</strong></div>
           <Button variant="btn btn-dark">Add to Cart</Button>
         </Card.Body>
       </Card>
@@ -33,12 +33,12 @@ const ProductCard = () => {
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'><strong>Long sleeve Jacket</strong></div>
-          <div className='text-end'>R2000 </div>
+          <div className='text-end'><strong>R2000</strong> </div>
           <Button variant="btn btn-dark">Add to Cart</Button>
         </Card.Body>
       </Card>
-      
-     
+
+
     </div>
   )
 }
