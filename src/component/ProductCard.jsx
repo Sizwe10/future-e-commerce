@@ -9,32 +9,32 @@ const ProductCard = () => {
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> Long sleeve Jacket</div>
-          <div className='price'>R2000 </div>
-          <Button variant="primary">Go somewhere</Button>
+          <div className='text-end'>R2000 </div>
+          <Button variant="primary">Add to Cart</Button>
         </Card.Body>
       </Card>
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> Long sleeve Jacket</div>
-          <div className='price'>R2000 </div>
-          <Button variant="primary">Go somewhere</Button>
+          <div className='text-end'>R2000 </div>
+          <Button variant="primary">Add to Cart</Button>
         </Card.Body>
       </Card>
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> Long sleeve Jacket</div>
-          <div className='price'>R2000 </div>
-          <Button variant="primary">Go somewhere</Button>
+          <div className='text-end'>R2000 </div>
+          <Button variant="primary">Add to Cart</Button>
         </Card.Body>
       </Card>
       <Card style={{ width: '18rem' }}>
         <Card.Img src="https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600" />
         <Card.Body>
           <div className='title'> Long sleeve Jacket</div>
-          <div className='price'>R2000 </div>
-          <Button variant="primary">Go somewhere</Button>
+          <div className='text-end'>R2000 </div>
+          <Button variant="primary">Add to Cart</Button>
         </Card.Body>
       </Card>
       
