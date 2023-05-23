@@ -6,6 +6,7 @@ const Footer = () => {
       <div className='footop'>
         <span className='profile'>Profile</span>
         <span className='LotcationUs'> Location Us</span>
+        <span className="follow">Follow Us</span>
       </div>
 
       <div className='footer'>

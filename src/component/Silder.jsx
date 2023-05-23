@@ -29,7 +29,7 @@ const Silder = () => {
       </Carousel>
 
       <div className='container mt-5'>
-        <p class="text-center display-9 my-1"><strong>Less time and energy wasted. <br></br>Keep reading through these shopping quotes from TV shows and<br></br> movies and people who love shopping to better understand why it makes them happy.</strong></p>
+        <p className="text-center display-9 my-1"><strong>Less time and energy wasted. <br></br>Keep reading through these shopping quotes from TV shows and<br></br> movies and people who love shopping to better understand why it makes them happy.</strong></p>
       </div>
     </div>
   )
