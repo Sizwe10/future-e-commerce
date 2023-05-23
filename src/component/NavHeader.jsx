@@ -2,20 +2,18 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import { Link } from "react-router-dom";
-
 
 const NavHeader = () => {
   return (
     <div>
       <Navbar bg="light" expand="lg">
         <Container>
-          <Navbar.Brand to="home"> <img src='https://images-platform.99static.com//6m2oEkLGOcAM-NspjIsGTF_x0do=/992x996:1866x1870/fit-in/500x500/projects-files/81/8156/815645/5513ffc1-e979-45e3-9684-6b725aa4df71.jpg' className='NavLogo'></img> </Navbar.Brand>
+          <Navbar.Brand to="home"> <img src='https://images-platform.99static.com//6m2oEkLGOcAM-NspjIsGTF_x0do=/992x996:1866x1870/fit-in/500x500/projects-files/81/8156/815645/5513ffc1-e979-45e3-9684-6b725aa4df71.jpg' alt='' className='NavLogo'></img> </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link to="home"><strong>Home</strong></Nav.Link>
-              <Nav.Link to="home"><strong>About Us</strong></Nav.Link>
+              <Nav.Link to="aboutUs"><strong>About Us</strong></Nav.Link>
               <Nav.Link to="contactUs"><strong>Contact Us</strong></Nav.Link>
               <Nav.Link to="blog"><strong>Blog</strong></Nav.Link>
             </Nav>

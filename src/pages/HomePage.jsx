@@ -7,6 +7,10 @@ import ProductCard from '../component/ProductCard'
 const HomePage = () => {
   return (
     <div>
+    <NavHeader />
+    <Silder />
+    <ProductCard />
+    <Footer />
     </div>
   )
 }
