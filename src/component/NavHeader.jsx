@@ -16,10 +16,10 @@ const NavHeader = () => {
                 <strong>Home</strong> </Link>
               <Link to="/aboutUs" className='nav-link m-2 menu-item'>
                 <strong>AboutUs</strong> </Link>
-              <Link to="/contactUs" className='nav-link m-2 menu-item'>
-                <strong>ContactUs</strong> </Link>
               <Link to="/blog" className='nav-link m-2 menu-item'>
                 <strong>Blog</strong> </Link>
+              <Link to="/contactUsblog" className='nav-link m-2 menu-item'>
+                <strong>ContactUs</strong> </Link>
 
             </Nav>
           </Navbar.Collapse>
