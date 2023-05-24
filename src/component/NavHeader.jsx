@@ -13,13 +13,13 @@ const NavHeader = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Link to="/" className='nav-link m-2 menu-item'>
-                Home </Link>
+                <strong>Home</strong> </Link>
               <Link to="/aboutUs" className='nav-link m-2 menu-item'>
-                AboutUs </Link>
+                <strong>AboutUs</strong> </Link>
               <Link to="/contactUs" className='nav-link m-2 menu-item'>
-                ContactUs </Link>
+                <strong>ContactUs</strong> </Link>
               <Link to="/blog" className='nav-link m-2 menu-item'>
-                Blog </Link>
+                <strong>Blog</strong> </Link>
 
             </Nav>
           </Navbar.Collapse>
