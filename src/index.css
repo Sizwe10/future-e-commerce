@@ -9,7 +9,7 @@
   margin-left: 50rem;
 }
 
-.profile{
+.profile {
   padding-left: 10rem;
 }
 
@@ -64,12 +64,12 @@
 }
 
 .social-media {
-display: flex;
-padding-left: 9rem;
-gap: 3rem;
+  display: flex;
+  padding-left: 9rem;
+  gap: 3rem;
 }
 
-.payment{
+.payment {
   display: flex;
   margin-bottom: 80rem;
   padding-left: 55rem;
@@ -77,18 +77,18 @@ gap: 3rem;
   height: 3rem;
 }
 
-.del{
+.del {
   color: red;
 }
 
-.woman{
-margin-right: 6rem;
+.woman {
+  margin-right: 6rem;
 }
 
-.follow{
+.follow {
   padding-left: 18rem;
 }
 
-
-
-
+.line {
+  padding-left: 8rem;
+}
