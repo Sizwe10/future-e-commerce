@@ -92,3 +92,22 @@
 .line {
   padding-left: 8rem;
 }
+
+.mapouter{
+  position:relative;
+  text-align:right;
+  width:912px;
+  height:399px;
+}
+
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  width:912px;
+  height:399px;
+}
+
+.gmap_iframe{
+  width:912px!important;
+  height:399px!important;
+}
